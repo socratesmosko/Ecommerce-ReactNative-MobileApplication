@@ -17,5 +17,5 @@ To start the application, you can run:
 
 ### `yarn && expo start`
 
-![Screenshot (334)](https://github.com/socratesmosko/Modern-Calculator-ReactNative-MobileApplication/assets/119309614/ca32320c-0f85-49e3-91f8-d829f3d6cce3) ![Screenshot (334)](https://github.com/socratesmosko/Modern-Calculator-ReactNative-MobileApplication/assets/119309614/ca32320c-0f85-49e3-91f8-d829f3d6cce3)
-
+![unnamed (1)](https://github.com/socratesmosko/Modern-Calculator-ReactNative-MobileApplication/assets/119309614/37aefa07-13e6-4ae6-86c0-a50077dd18da)
+![unnamed](https://github.com/socratesmosko/Modern-Calculator-ReactNative-MobileApplication/assets/119309614/bb2853a8-33df-409a-a1fa-f59006993826)
