@@ -1,6 +1,6 @@
 # E-Commerce React Native Mobile Application
 
-This is a React Native mobile application featuring a modern calculator with a sleek design and intuitive functionalities, allowing users to perform mathematical calculations seamlessly on their smartphones.
+This is a React Native Mobile Application that offers a seamless e-commerce experience, allowing users to conveniently browse products from their smartphones. With intuitive features, it delivers a user-friendly platform for on-the-go shopping.
 
 Technologies Used:
 - React Native Expo
