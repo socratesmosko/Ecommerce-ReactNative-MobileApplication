@@ -18,4 +18,4 @@ To start the application, you can run:
 ### `yarn && expo start`
 
 ![unnamed (1)](https://github.com/socratesmosko/Modern-Calculator-ReactNative-MobileApplication/assets/119309614/37aefa07-13e6-4ae6-86c0-a50077dd18da)
-![unnamed](https://github.com/socratesmosko/Modern-Calculator-ReactNative-MobileApplication/assets/119309614/bb2853a8-33df-409a-a1fa-f59006993826)
+![unnamed](https://github.com/socratesmosko/Modern-Calculator-ReactNative-MobileApplication/assets/119309614/bca6bd20-16cc-4b0f-81da-6c77a3b0fc01)
